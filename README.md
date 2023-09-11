@@ -23,5 +23,5 @@
 <br> - Phase 3 Finalist, Phase 2 Top 29 (3%, 29/891)
 
 ### 🛠TECH STACK
-- Python
-- MySQL
+#### [Languages]
+- Python / MySQL
