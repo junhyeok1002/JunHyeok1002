@@ -1,3 +1,4 @@
+📢Activity
 [Sogang Univ.]
 <br>(18.03 - 24.02) Economics & Bigdata Science major, Sogang University 졸업예정
 <br>(18.11 - 18.12) 2018 서강대학교 경제학부 선거관리위원회
