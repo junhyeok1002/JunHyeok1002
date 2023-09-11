@@ -21,3 +21,7 @@
 <br> 발행: LG AI Research · 2023년 3월
 <br> - LG Aimers DACON '스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤'
 <br> - Phase 3 Finalist, Phase 2 Top 29 (3%, 29/891)
+
+### 🛠TECH STACK
+- Python
+- MySQL
