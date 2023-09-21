@@ -4,6 +4,13 @@
 - 
 
 #### [Projects]
+- Happy_Tour
+- Samsung_Securites_Project
+- KOSPI200_Reconstitution_ML_Prediction
+- 23_1st_INSICON_team5_Project
+- Gangseo_Bigdata_Contest
+- 3Gradient_Boosting_Models_Performance-Comparison
+- TSLS_Investing_Algorithm_Project
 - [22_2st_INSICON_team4_Project](https://github.com/junhyeok1002/22_2st_INSICON_team4_Project.git)
 
 
