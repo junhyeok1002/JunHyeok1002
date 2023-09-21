@@ -1,3 +1,10 @@
+### 💼Repositories
+#### [Studies]
+
+
+#### [Projects]
+
+
 ### 📢Activity
 #### [Sogang Univ.]
 - (18.03 - 24.02) Economics & Bigdata Science major, Sogang University 졸업예정
