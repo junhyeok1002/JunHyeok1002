@@ -1,6 +1,6 @@
 ### 💼Repositories
 > #### [Studies]
->> - [insight_education](https://github.com/junhyeok1002/insight_education.git)
+- [insight_education](https://github.com/junhyeok1002/insight_education.git)
 
 > #### [Projects]
 - [Happy_Tour](https://github.com/junhyeok1002/Happy_Tour.git)
@@ -14,17 +14,18 @@
 ---
 
 ### 📢Activity
-#### [Sogang Univ.]
+> #### [Sogang Univ.]
 - (18.03 - 24.02) Economics & Bigdata Science major, Sogang University 졸업예정
 - (18.11 - 18.12) 2018 서강대학교 경제학부 선거관리위원회
 - (18.12 - 19.03) 2019 경제학부 B섹션 비상대책위원회 비상대책위원장
 - (19.04 - 19.11) 2019 경제학부 B섹션 학생회 '밥상' 학생회장
 - (19.11 - 19.12) 2019 서강대학교 중앙 선거관리위원회
 
-#### [Data & AI]
+> #### [Data & AI]
 - (22.09 - 23.07) 서강대학교 데이터사이언스학회 'INSIGHT' 교육팀
 - (23.01 - 23.03) LG Aimers / Data Intelligence 2nd (LG AI교육과정 2기 수료)
 - (23.09 - 23.11) Google Machine Learning Bootcamp 4th (구글 ML교육과정 4기 진행중)
+---
 
 ### 🏆Awards
 - 2023 삼성증권 디지털/IT 학회 연계 프로그램 최종과제(최우수상)
@@ -36,7 +37,7 @@
 <br> 발행: LG AI Research · 2023년 3월
 <br> - LG Aimers DACON '스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤'
 <br> - Phase 3 Finalist, Phase 2 Top 29 (3%, 29/891)
-
+---
 ### 🛠Tech Stack
-#### [Languages]
+> #### [Languages]
 - Python / MySQL
