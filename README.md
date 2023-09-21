@@ -1,6 +1,6 @@
 ### 💼Repositories
 > #### [Studies]
->> - [insight_education](https://github.com/junhyeok1002/insight_education.git)
+> - [insight_education](https://github.com/junhyeok1002/insight_education.git)
 
 > #### [Projects]
 - [Happy_Tour](https://github.com/junhyeok1002/Happy_Tour.git)
