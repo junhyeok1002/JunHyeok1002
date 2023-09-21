@@ -28,12 +28,12 @@
 ---
 
 ### 🏆Awards
-> 2023 삼성증권 디지털/IT 학회 연계 프로그램 최종과제(최우수상)
+> - 2023 삼성증권 디지털/IT 학회 연계 프로그램 최종과제(최우수상)
 <br> 발행: 삼성 증권(Samsung Securities Co., Ltd.) · 2023년 6월
 <br> - 종목별 이벤트 발생에 따른 주가 변동 검색 서비스 구현
 <br> - 검색 종목 주가 이벤트 실시간 크롤링 및 포트폴리오 백테스팅/추천
 
-> 2023 LG Aimers - Phase 3 Finalist, Phase 2 Top 3%
+> - 2023 LG Aimers - Phase 3 Finalist, Phase 2 Top 3%
 <br> 발행: LG AI Research · 2023년 3월
 <br> - LG Aimers DACON '스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤'
 <br> - Phase 3 Finalist, Phase 2 Top 29 (3%, 29/891)
