@@ -1,16 +1,15 @@
 ### 💼Repositories
 #### [Studies]
 - [insight_education](https://github.com/junhyeok1002/insight_education.git)
-- 
 
 #### [Projects]
-- Happy_Tour
-- Samsung_Securites_Project
-- KOSPI200_Reconstitution_ML_Prediction
-- 23_1st_INSICON_team5_Project
-- Gangseo_Bigdata_Contest
-- 3Gradient_Boosting_Models_Performance-Comparison
-- TSLS_Investing_Algorithm_Project
+- [Happy_Tour](https://github.com/junhyeok1002/Happy_Tour.git)
+- [Samsung_Securites_Project](https://github.com/junhyeok1002/Samsung_Securites_Project.git)
+- [KOSPI200_Reconstitution_ML_Prediction](https://github.com/junhyeok1002/KOSPI200_Reconstitution_ML_Prediction.git)
+- [23_1st_INSICON_team5_Project](https://github.com/junhyeok1002/23_1st_INSICON_team5_Project.git)
+- [Gangseo_Bigdata_Contest](https://github.com/junhyeok1002/Gangseo_Bigdata_Contest.git)
+- [3Gradient_Boosting_Models_Performance-Comparison](https://github.com/junhyeok1002/3Gradient_Boosting_Models_Performance-Comparison.git)
+- [TSLS_Investing_Algorithm_Project](https://github.com/junhyeok1002/TSLS_Investing_Algorithm_Project.git)
 - [22_2st_INSICON_team4_Project](https://github.com/junhyeok1002/22_2st_INSICON_team4_Project.git)
 
 
