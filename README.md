@@ -1,8 +1,8 @@
 ### 💼Repositories
->> #### [Studies]
-- [insight_education](https://github.com/junhyeok1002/insight_education.git)
+> #### [Studies]
+>> - [insight_education](https://github.com/junhyeok1002/insight_education.git)
 
->> #### [Projects]
+> #### [Projects]
 - [Happy_Tour](https://github.com/junhyeok1002/Happy_Tour.git)
 - [Samsung_Securites_Project](https://github.com/junhyeok1002/Samsung_Securites_Project.git)
 - [KOSPI200_Reconstitution_ML_Prediction](https://github.com/junhyeok1002/KOSPI200_Reconstitution_ML_Prediction.git)
