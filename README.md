@@ -1,8 +1,10 @@
 ### 💼Repositories
 #### [Studies]
-
+- [insight_education](https://github.com/junhyeok1002/insight_education.git)
+- 
 
 #### [Projects]
+- [22_2st_INSICON_team4_Project](https://github.com/junhyeok1002/22_2st_INSICON_team4_Project.git)
 
 
 ### 📢Activity
