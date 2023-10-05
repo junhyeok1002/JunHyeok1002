@@ -1,6 +1,7 @@
 ### 💼Repositories
 > #### [Studies]
 - [insight_education](https://github.com/junhyeok1002/insight_education.git)
+- [Sogang_Lectures_Codefiles](https://github.com/junhyeok1002/Sogang_Lectures_Codefiles)
 
 > #### [Projects]
 - [Happy_Tour](https://github.com/junhyeok1002/Happy_Tour.git)
